@@ -1,0 +1,23 @@
+# Основные зависимости
+python-dotenv
+requests
+pandas
+numpy
+sqlalchemy
+
+# API клиенты
+vk-api
+openai
+
+# Визуализация и интерфейс
+streamlit
+plotly
+matplotlib
+
+# Аналитика и ИИ
+scikit-learn
+nltk
+
+# Утилиты
+tqdm
+schedule
